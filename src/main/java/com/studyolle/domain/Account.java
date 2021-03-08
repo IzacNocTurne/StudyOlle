@@ -30,7 +30,7 @@ public class Account {
     private String bio;
 
     private String url;
- 
+
     private String occupation;
 
     private String location;
