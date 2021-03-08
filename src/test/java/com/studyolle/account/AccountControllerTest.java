@@ -16,7 +16,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @SpringBootTest
 @AutoConfigureMockMvc
 class AccountControllerTest {
-
+ 
     @Autowired private MockMvc mockMvc;
 
     @DisplayName("회원 가입 화면 보이는지 테스트")
