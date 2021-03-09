@@ -51,5 +51,4 @@ public class Account {
     private boolean studyUpdatedByWeb;
 
 
-
 }
